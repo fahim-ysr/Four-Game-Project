@@ -6,7 +6,7 @@ This project was completed as part of COMP 2005 coursework at Memorial Universit
 
 **Please click on the thumbnail to view the demo. 👇**
 
-[![Watch the video](Thumbnail1.png)](https://youtu.be/67zKoRCyHNQ)
+[![Watch the video](Thumbnail1.png)](https://youtu.be/wBDaCdwiPro)
 
 <br>
 

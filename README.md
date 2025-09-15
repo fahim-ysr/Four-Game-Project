@@ -18,6 +18,7 @@ This project was completed as part of COMP 2005 coursework at Memorial Universit
 - Java
 - Java Swing for GUI components
 - Object-Oriented Design Patterns
+- Agile SLDC
 <br>
 
 **Our Approach**
